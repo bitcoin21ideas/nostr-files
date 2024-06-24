@@ -31,4 +31,4 @@ nav_order: 7
 {: .highlight}
 > Генерация Vanity-адресов не является обязательной, но если вы все же решили завладеть "красивым" адресом, делайте это в оффлайн-среде (на устройстве, отключенном от интернета).
 
-[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Верификация NIP-05 →](https://nostr.21ideas.org/docs/basics/stats.html)
+[← Инструменты](https://nostr.21ideas.org/docs/basics/tools.html) | [Верификация NIP-05 →](https://nostr.21ideas.org/docs/basics/nip-05.html)

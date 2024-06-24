@@ -15,9 +15,9 @@ nav_order: 11
 
 * [bevstr](https://www.bevstr.com/Nostr/) -- список важных Nostr-ресурсов на английском
 * [nostr.how](https://nostr.how/) -- упорядоченная база данных Nostr, чем-то напоминает [nostr.21ideas.org](https://nostr.21ideas.org/)
-* [nostr.net](https://www.nostr.net/) —- список проектов Nostr
-* [nostr-resources.com](https://nostr-resources.com/) —- ресурс Gigi
-* [uselessshit.co](https://uselessshit.co/resources/nostr/) —- F.A.Q.
+* [nostr.net](https://www.nostr.net/) -- список проектов Nostr
+* [nostr-resources.com](https://nostr-resources.com/) -- ресурс Gigi
+* [uselessshit.co](https://uselessshit.co/resources/nostr/) -- F.A.Q.
 
 ***
 
